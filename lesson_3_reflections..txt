@@ -11,3 +11,8 @@ are different ways the software is developing.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So that you can be aware of the latest changes, and then work on an up-to-date version offline if you need.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Using github would make things much easier. It may take getting used to but everything is easily visible from the screen
+so there's no need of keeping track with a command line.
+
